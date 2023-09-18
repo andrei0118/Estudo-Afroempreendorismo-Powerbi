@@ -12,8 +12,8 @@ A Diretoria de Economia Criativa e Solidária, da Secretaria de Desenvolvimento 
 
 
 # Tecnologias utilizadas
-- Powe Bi
-- Formularios Google
+- Powew Bi
+- Formulários Google
   
 ## Autor
 Levantamento e Pesquisa: Luiz Cláudio Alves Viana |  Diretoria de Economia Criativa e Solidária 
