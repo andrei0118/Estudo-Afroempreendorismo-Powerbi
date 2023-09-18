@@ -9,6 +9,8 @@ A Diretoria de Economia Criativa e Solidária, da Secretaria de Desenvolvimento 
 
 ##  Layouts  
 ![CAPA](https://github.com/andrei0118/Power-Bi-Estudo-Afroempreendorismo/assets/75299828/8965c1d7-5e20-4616-8490-615dc900cc73)
+![capa1](https://github.com/andrei0118/Estudo-Afroempreendorismo-Powerbi/assets/75299828/f47b38de-e5f6-4486-af7c-f04707c8e4bb)
+![capa2](https://github.com/andrei0118/Estudo-Afroempreendorismo-Powerbi/assets/75299828/eebff4fd-a0fd-44ec-9cee-3f2c2c95414c)
 
 
 # Tecnologias utilizadas
