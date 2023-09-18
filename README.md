@@ -8,9 +8,7 @@
 A Diretoria de Economia Criativa e Solidária, da Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia, criou um formulário para coletar informações sobre o afroempreendedorismo em Ouro Preto, entender as demandas das (os) afroempreendedoras (es), e criar políticas públicas que favoreçam o desenvolvimento econômico das pessoas negras que empreendem em Ouro Preto. Além de incentivar o afroempreendedorismo na cidade, o projeto visa valorizar e promover a cultura afro-brasileira na região.
 
 ##  Layouts  
-![image](https://user-images.githubusercontent.com/75299828/138769853-93ec4746-5bdb-4d9c-914c-c09423c1aed4.png)
-![image](https://user-images.githubusercontent.com/75299828/138769907-a2f76847-1ef7-4675-9529-0452a7fa23f7.png)
-![image](https://user-images.githubusercontent.com/75299828/138776963-e7b345c3-6fe4-4095-a4aa-c0537e6aae06.png)
+![CAPA](https://github.com/andrei0118/Power-Bi-Estudo-Afroempreendorismo/assets/75299828/8965c1d7-5e20-4616-8490-615dc900cc73)
 
 
 # Tecnologias utilizadas
@@ -19,26 +17,11 @@ A Diretoria de Economia Criativa e Solidária, da Secretaria de Desenvolvimento 
   
 ## Autor
 Levantamento e Pesquisa: Luiz Cláudio Alves Viana |  Diretoria de Economia Criativa e Solidária 
+
 Análise de Dados: Andrei Santos | Diretoria de Estudos Econômicos 
+
 Fonte de dados: Prefeitura Municipal de Ouro Preto | Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia.
 
 Andrei Camilo dos Santos
 https://www.linkedin.com/in/andrei0118-santos
-
-<a name="br1"></a> 
-
-**Projeto Economia Afro Criativa e o**
-
-**Afroempreendorismo**
-
-**Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia.**
-
-Diretoria de Estudos Econômicos e Diretoria de Economia Criativa e Solidária
-
-Levantamento e Pesquisa: Luiz Cláudio Alves Viana
-
-Análise de Dados: Andrei Santos
-
-Fonte de dados: [Prefeitura](https://ouropreto.mg.gov.br/)[ ](https://ouropreto.mg.gov.br/)[Municipal](https://ouropreto.mg.gov.br/)[ ](https://ouropreto.mg.gov.br/)[de](https://ouropreto.mg.gov.br/)[ ](https://ouropreto.mg.gov.br/)[Ouro](https://ouropreto.mg.gov.br/)[ ](https://ouropreto.mg.gov.br/)[Preto](https://ouropreto.mg.gov.br/)
-
 
