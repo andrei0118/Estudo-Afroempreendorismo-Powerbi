@@ -24,3 +24,21 @@ Fonte de dados: Prefeitura Municipal de Ouro Preto | Secretaria de Desenvolvimen
 
 Andrei Camilo dos Santos
 https://www.linkedin.com/in/andrei0118-santos
+
+<a name="br1"></a> 
+
+**Projeto Economia Afro Criativa e o**
+
+**Afroempreendorismo**
+
+**Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia.**
+
+Diretoria de Estudos Econômicos e Diretoria de Economia Criativa e Solidária
+
+Levantamento e Pesquisa: Luiz Cláudio Alves Viana
+
+Análise de Dados: Andrei Santos
+
+Fonte de dados: [Prefeitura](https://ouropreto.mg.gov.br/)[ ](https://ouropreto.mg.gov.br/)[Municipal](https://ouropreto.mg.gov.br/)[ ](https://ouropreto.mg.gov.br/)[de](https://ouropreto.mg.gov.br/)[ ](https://ouropreto.mg.gov.br/)[Ouro](https://ouropreto.mg.gov.br/)[ ](https://ouropreto.mg.gov.br/)[Preto](https://ouropreto.mg.gov.br/)
+
+
