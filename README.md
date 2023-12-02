@@ -1,6 +1,6 @@
-# Projeto: Economia Afro Criativa e Afroempreendedorismo em Ouro Preto - MG
+## Projeto: Economia Afro Criativa e Afroempreendedorismo em Ouro Preto - MG
 
-## Licença  
+### Licença  
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/andrei0118/gn-vendas/blob/master/LICENSE)
 
 ## Sobre o projeto
@@ -17,15 +17,14 @@ A Diretoria de Economia Criativa e Solidária, da Secretaria de Desenvolvimento 
 ![6179b0e4c89345c6c059006c63818303eSt8TJmFsZGvtFJ3-6](https://github.com/andrei0118/Estudo-Afroempreendorismo-Powerbi/assets/75299828/5495948c-b6ec-401e-9a5e-a504f8437cf9)
 ![6179b0e4c89345c6c059006c63818303eSt8TJmFsZGvtFJ3-7](https://github.com/andrei0118/Estudo-Afroempreendorismo-Powerbi/assets/75299828/1f6766ac-6222-412a-956f-0caef82bc618)
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 - Powew Bi
 - Formulários Google
   
 ## Autor
-Levantamento e Pesquisa: Luiz Cláudio Alves Viana |  Diretoria de Economia Criativa e Solidária 
 
-Análise de Dados: Andrei Santos | Diretoria de Estudos Econômicos 
-
+- Levantamento e Pesquisa: Luiz Cláudio Alves Viana |  Diretoria de Economia Criativa e Solidária 
+- Análise de Dados: Andrei Santos | Diretoria de Estudos Econômicos
 Fonte de dados: Prefeitura Municipal de Ouro Preto | Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia.
 
 Andrei Camilo dos Santos
